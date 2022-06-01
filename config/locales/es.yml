@@ -1,0 +1,8 @@
+es:
+  back:
+    wines: "Volver a vinos"
+  wines:
+    edit:
+      title: "Editar vinos"
+    new:
+      title: "Crear vino"

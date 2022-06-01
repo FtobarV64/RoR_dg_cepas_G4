@@ -30,4 +30,11 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  back:
+    wines: "Back to wines"
+
+  wines:
+    edit:
+      title: "Editing wine"
+    new:
+      title: "New wine"
