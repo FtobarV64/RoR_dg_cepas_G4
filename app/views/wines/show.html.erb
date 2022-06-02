@@ -3,8 +3,8 @@
 <%= render @wine %>
 
 <div>
-  <%= link_to "Edit this wine", edit_wine_path(@wine) %> |
-  <%= link_to "Back to wines", wines_path %>
+  <%= link_to t('edit.wine'), edit_wine_path(@wine) %> |
+  <%= link_to t('back.wines'), wines_path %>
 
-  <%= button_to "Destroy this wine", @wine, method: :delete %>
+  <%= button_to t('destroy.wine'), @wine, method: :delete %>
 </div>

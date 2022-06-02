@@ -1,6 +1,18 @@
 es:
+  common:
+    name: "Nombre:"
+    title: "Vinos"
   back:
     wines: "Volver a vinos"
+  show:
+    wine: "Mostrar este vino"
+  new:
+    wine: "Agregar vino"
+  edit:
+    wine: "Editar este vino"
+  destroy:
+    wine: "Eliminar este vino"
+
   wines:
     edit:
       title: "Editar vinos"
